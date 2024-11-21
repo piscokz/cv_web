@@ -1,0 +1,17 @@
+.jumbotron {
+    padding: 2rem 1rem;
+    background-color: #e2edff;
+}
+
+.bg-lightblue {
+    background-color: #e2edff;
+}
+
+.profil {
+    border: 5px solid #ffffff;
+}
+
+.text-no-decoration {
+    color: black;
+    text-decoration: none;
+}
